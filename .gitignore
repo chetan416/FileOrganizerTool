@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+venv/
+__pycache__/
+
+# PyInstaller files
+build/
+dist/
+*.spec
+
+# macOS system files
+.DS_Store
+
+# IDE / Editor specific
+.idea/
+.vscode/
